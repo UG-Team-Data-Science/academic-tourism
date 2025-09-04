@@ -34,8 +34,7 @@ uv sync
 3. Generate HTML report: `python entity_markup_converter.py data/llm_predictions.jsonl report.html`
 
 ## Entity Types
-- E53 Place, E21 Person, E19 Physical Thing, E52 Time-Span
-- E54 Dimension, E86 Leaving, E74 Group, E9 Move
+- E53 Place, E21 Person, E19 Physical Thing, E52 Time-Span, E54 Dimension, E86 Leaving, E74 Group, E9 Move
 
 ## Files
 ```
