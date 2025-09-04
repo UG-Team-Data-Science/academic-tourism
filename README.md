@@ -20,13 +20,6 @@ Pipeline for creating and testing entity annotations on Dutch historical texts u
 - Tests Mistral Small 3.2 and GPT-4o-mini models
 - Outputs predictions to `data/llm_predictions.jsonl`
 
-## Setup
-
-Install dependencies with `uv`:
-```bash
-uv sync
-```
-
 ## Usage
 
 1. Place annotated DOCX files in `data/`
